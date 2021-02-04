@@ -1,5 +1,5 @@
 {
-  "name": "raid-socialimage",
+  "name": "test-socialimage",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "chrome-aws-lambda": "^5.5.0",
+    "faker": "^5.3.1",
     "next": "10.0.6",
+    "puppeteer": "^7.0.0",
+    "puppeteer-core": "^7.0.0",
+    "puppeteer-social-image": "^0.8.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
