@@ -48,7 +48,7 @@ const imageTemplate = {
         display: flex;
         align-items: center;
         flex-grow: 1;
-        font-size: 80px;
+        font-size: 60px;
         font-weight: 800;
         text-align: center;
       }
@@ -66,6 +66,7 @@ const imageTemplate = {
       }
       .logo-inner img{
         height: 250px;
+        object-fit: contain;
       }
       .logo-text {
         font-weight: 600;
