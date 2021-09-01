@@ -11,7 +11,7 @@
     "chrome-aws-lambda": "^5.5.0",
     "faker": "^5.3.1",
     "firebase": "^8.2.6",
-    "next": "10.0.6",
+    "next": "11.1.1",
     "puppeteer": "^7.0.0",
     "puppeteer-core": "^7.0.0",
     "puppeteer-social-image": "^0.8.1",
